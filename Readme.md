@@ -1,7 +1,7 @@
 
 # NexusMind: LLM-Powered Negotiation Training Simulator
 
-A self-contained, research-grade Jupyter notebook implementing a 3-module conversational AI system for negotiation skill development. This project is intentionally scoped to 
+A self-contained, research-grade Jupyter notebook implementing a 3-module conversational AI system for negotiation skill development.
 
 ## Core Modules
 - **Dialogue Engine**: Intent-aware context adaptation & pragmatic response generation
